@@ -1,0 +1,86 @@
+[
+    {
+        "id": "51361aed-d81c-416e-9181-57027de33dc2",
+        "title": "Test Title",
+        "author": "Test Author",
+        "year": "2023",
+        "status": "\u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438"
+    },
+    {
+        "id": "ae859232-a857-48f9-a2f7-6f3fa7a93be1",
+        "title": "Search Title",
+        "author": "Search Author",
+        "year": "2023",
+        "status": "\u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438"
+    },
+    {
+        "id": "8e521bc8-1558-446d-9ffe-9d0dc03846c5",
+        "title": "Display Title",
+        "author": "Display Author",
+        "year": "2023",
+        "status": "\u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438"
+    },
+    {
+        "id": "e4ac5a49-6ad7-4877-8743-06b7c9ba44b8",
+        "title": "Status Title",
+        "author": "Status Author",
+        "year": "2023",
+        "status": "\u0432\u044b\u0434\u0430\u043d\u0430"
+    },
+    {
+        "id": "a450fd28-b65d-4c33-a509-5c46770c02f0",
+        "title": "Test Title",
+        "author": "Test Author",
+        "year": "2023",
+        "status": "\u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438"
+    },
+    {
+        "id": "65ef6f9c-dcd9-41a5-a5d6-f673e48fcbd6",
+        "title": "Search Title",
+        "author": "Search Author",
+        "year": "2023",
+        "status": "\u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438"
+    },
+    {
+        "id": "473930c0-1e6f-4b2f-87c4-a5a928a66898",
+        "title": "Display Title",
+        "author": "Display Author",
+        "year": "2023",
+        "status": "\u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438"
+    },
+    {
+        "id": "a45154b4-b68e-4f99-8db9-fbbd591b805f",
+        "title": "Status Title",
+        "author": "Status Author",
+        "year": "2023",
+        "status": "\u0432\u044b\u0434\u0430\u043d\u0430"
+    },
+    {
+        "id": "6631a3f2-201c-4d59-b72d-633cdf6eda29",
+        "title": "Test Title",
+        "author": "Test Author",
+        "year": "2023",
+        "status": "\u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438"
+    },
+    {
+        "id": "fb792845-f591-491e-beb5-ae9d21d6c472",
+        "title": "Search Title",
+        "author": "Search Author",
+        "year": "2023",
+        "status": "\u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438"
+    },
+    {
+        "id": "ee916859-d3a3-4aa8-93d8-0a3e84abac67",
+        "title": "Display Title",
+        "author": "Display Author",
+        "year": "2023",
+        "status": "\u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438"
+    },
+    {
+        "id": "1e4f1348-b6c1-4ce5-b657-d07b868eb19e",
+        "title": "Status Title",
+        "author": "Status Author",
+        "year": "2023",
+        "status": "\u0432\u044b\u0434\u0430\u043d\u0430"
+    }
+]
